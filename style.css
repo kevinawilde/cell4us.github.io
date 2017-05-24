@@ -58,9 +58,6 @@
 #content {
 	overflow: auto;
 }
-.image {
-
-}
 body {
 	font-family: 'Lato', sans-serif;
 	background-color: #2C3E50;
@@ -78,4 +75,38 @@ footer{
 }
 h2 {
 	text-align: center;
+}
+.notsocenter {
+	margin:auto;
+	width: 70%
+}
+.notsocenter h2 {
+	margin-top: 10px;
+}
+.notsocenter h2 a{
+	text-decoration: none;
+	color: black;
+	margin-top: 10px;
+}
+
+.blogpost {
+	background-color: #006600;
+	margin: 100px;
+}
+.blogpost p {
+	float:left;
+	width: 350px;
+	margin: 20px;
+	text-align: center;
+}
+.blogpost h2 {
+	text-decoration: none;
+	text-align: left
+}
+.blogimage {
+	height: 200px;
+	border-radius: 5px;
+	box-shadow: 5px 5px 5px black;
+	margin-left: 50px;
+	margin-bottom: 50px;
 }
