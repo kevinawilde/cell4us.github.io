@@ -1,5 +1,5 @@
 #header {
-	background-color: #2C3E50;
+	background-color:#003399;
 	padding: 1em;
 	height: 200px;
 	top:0;
@@ -15,15 +15,21 @@
 	color: #17202A;
 }
 #toplinks {
-	background-color: #E67E22;
+	background-color: #cc0000;
+	font-size: 1.5em;
 }
 #toplinks a {
 	text-decoration: none;
 	margin-left: 100px;
+	color: black
 }
 #cellimage img {
 	height: 200px;
 	width:100%;
+}
+#logo{
+	height: 180px;
+	margin-left: 20px;
 }
 #cellphonesandme {
 	background-color: #A569BD;
