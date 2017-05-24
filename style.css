@@ -110,3 +110,18 @@ h2 {
 	margin-left: 50px;
 	margin-bottom: 50px;
 }
+.product div {
+	position: relative;
+	margin: 40px;
+	background-color: #993366;
+	float: left;
+	top: 30px;
+	left: 30px;
+}
+.product div a img {
+	height: 200px;
+	border-radius: 5px;
+	box-shadow: 5px 5px 5px black;
+	margin-left: 50px;
+	margin-bottom: 50px;
+}
