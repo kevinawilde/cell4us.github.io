@@ -104,6 +104,8 @@ h2 {
 	text-align: center;
 }
 .blogpost h2 {
+	position: relative;
+	top: 10px;
 	text-decoration: none;
 	text-align: left
 }
@@ -121,11 +123,14 @@ h2 {
 	float: left;
 	top: 30px;
 	left: 30px;
+	height: 225px;
+	width: 225px;
 }
 .product div a img {
+	top: 10px; 
+	left: 10px;
 	height: 200px;
 	border-radius: 5px;
 	box-shadow: 5px 5px 5px black;
-	margin-left: 50px;
-	margin-bottom: 50px;
+	position: relative;
 }
